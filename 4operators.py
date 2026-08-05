@@ -7,14 +7,14 @@ print(a - b)
 print(a * b)
 print(a / b)
 print(a % b) #% is remainder finder
-print(a ** b) # a ko power b banauna use
+print(a ** b) # a  power b  
 
 
 #relational operators
 a=10
 b=30
 print( a==b )  #false
-print(a!=b) # != esko meaning not equal to
+print(a!=b) # != meaning not equal to
 print(a>=b) # a greater than equal to b
 
 
@@ -23,7 +23,7 @@ print(a>=b) # a greater than equal to b
 num=5
 num=num+20
 print(num)
-#esaiko shortcut is
+#shortcut is
 num2=2
 num2 += 5
 print(num2)
