@@ -31,7 +31,7 @@ print(num2)
 count=12
 count -= 2
 print('the value is',count)
-#same for multiplication and division
+
 
 x= 22
 x += 10
