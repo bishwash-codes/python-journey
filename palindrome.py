@@ -1,4 +1,4 @@
-student = [50 , 34 , 50]
+student = ['m','a','a','m']
 
 copy = student.copy()
 copy.reverse()
