@@ -23,4 +23,3 @@ info.update({'chemistry': chem })
 info.update({'mathematics' : maths})
 
 print(info)
-
