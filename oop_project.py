@@ -83,7 +83,7 @@ class Inbox:
             print("Invalid email number.\n")
             return
         del self.emails[actual_index]
-        print("Email deleted.\n")
+        print("Email deleted...\n")
 
 
 def main():
